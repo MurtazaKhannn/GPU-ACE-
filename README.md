@@ -1,6 +1,6 @@
 # GPU Cost Optimizer & Recommender ⚡💰
 
-video link : https://drive.google.com/file/d/10beDjq4KupwS2uJMG6w9g-JSCOkYG8E2/view?usp=drive_link
+video link : https://drive.google.com/file/d/1xJUbouB1heCFf5m7Z_pRPPJzsNKeW4I8/view?usp=sharing
 
 pptlink : https://www.canva.com/design/DAGmYSJHP4U/2i1EcfPmhEzsXoQJqP0kuA/edit?utm_content=DAGmYSJHP4U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
