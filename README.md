@@ -2,6 +2,8 @@
 
 video link : https://drive.google.com/file/d/10beDjq4KupwS2uJMG6w9g-JSCOkYG8E2/view?usp=drive_link
 
+pptlink : https://www.canva.com/design/DAGmYSJHP4U/2i1EcfPmhEzsXoQJqP0kuA/edit?utm_content=DAGmYSJHP4U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 *A cloud-native tool to recommend optimal GPU instances based on workload requirements and budget, powered by real-time pricing and AI explanations.*
 
 ---
