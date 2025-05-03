@@ -6,7 +6,9 @@ pptlink : https://www.canva.com/design/DAGmYSJHP4U/2i1EcfPmhEzsXoQJqP0kuA/edit?u
 
 *A cloud-native tool to recommend optimal GPU instances based on workload requirements and budget, powered by real-time pricing and AI explanations.*
 
-GPU ACE REPO for fetch GPU from ACECLOUD API : https://github.com/MurtazaKhannn/gpuace
+ACEGPU  REPO for fetch GPU from ACECLOUD API : https://github.com/MurtazaKhannn/gpuace
+ACEGPU Chatbot REPO : https://github.com/MurtazaKhannn/gpucb.git
+ACEGPU FrontEnd : https://github.com/MurtazaKhannn/gpufe.git
 
 
 ---
