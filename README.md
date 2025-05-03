@@ -6,11 +6,14 @@ pptlink : https://www.canva.com/design/DAGmYSJHP4U/2i1EcfPmhEzsXoQJqP0kuA/edit?u
 
 *A cloud-native tool to recommend optimal GPU instances based on workload requirements and budget, powered by real-time pricing and AI explanations.*
 
+GPU ACE REPO for fetch GPU from ACECLOUD API : https://github.com/MurtazaKhannn/gpuace
+
+
 ---
 
 ## 🚀 **Features**
 - **Workload-Aware Recommendations**: Input model type (LLM, CNN), dataset size, and budget to get tailored GPU suggestions.
-- **Real-Time Pricing**: Fetches live GPU costs (on-demand/spot) from AceCloud API.
+- **Real-Time Pricing**: Fetches live GPU metric like GPU , CPU and RAM usage and  (on-demand/spot) from AceCloud API the list of GPU , it goes to the LLM and Depending on the usecase it suggest best GPU.
 - **Cost Comparisons**: Side-by-side hourly/monthly pricing with savings highlights.
 - **AI Explanations**: *(Optional)* Gemini/RAG-powered justifications for recommendations.
 - **User-Friendly Dashboard**: Intuitive UI with dark/light mode and export options.
