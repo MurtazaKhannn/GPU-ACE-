@@ -40,8 +40,8 @@ ACEGPU FrontEnd : https://github.com/MurtazaKhannn/gpufe.git
 ## 📦 **Installation**
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/your-username/gpufe.git
-   cd gpufe
+   git clone https://github.com/your-username/GPU-ACE-.git
+   cd GPU-ACE-
 
 ## TO RUN THE MAIN.PY FROM FETCHING GPU , CPU AND RAM USAGE make sure to add image name in body using postman You must have docker install in you 
  ```bash
@@ -71,7 +71,7 @@ Click "Explain" for AI-generated insights.
 3. **Visual Cues**: Icons (⚡, 🤖) and intuitive UI to improve readability. 
 
 ## License
-MIT License. See LICENSE.
+MIT License.
 
 ## Credits
 Built for AceCloud RTDS Hackathon 2025.
